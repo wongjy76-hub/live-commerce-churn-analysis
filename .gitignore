@@ -1,0 +1,25 @@
+# macOS系统文件
+.DS_Store
+**/.DS_Store
+
+# Jupyter临时文件
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python缓存
+__pycache__/
+*.py[cod]
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 环境变量与敏感信息
+.env
+.env.*
+
+# 日志与临时文件
+*.log
+*.tmp
+~$*
